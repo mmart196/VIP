@@ -11,4 +11,4 @@ Review Student Applications: Allows admin users to check students applications f
 Review Project Proposal: Allows admin users to check project proposals and decide whether to accept or reject them.
 
 
-There are other files in the project that I worked on but I did not add them here since they were edits while the ones above were created from scratch.
+Note: There are other files in the project that I worked on but I did not add them here since they were edits while the ones above were created from scratch.
